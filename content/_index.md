@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: Communication Science for the Public Good
 date: 2022-10-24
 type: landing
 
@@ -9,6 +9,12 @@ design:
   spacing: '6rem'
 
 sections:
+  - block: hero
+    content:
+      title: Communication Science for the Public Good
+      text: |
+        Translating evidence-based research in communication, language, and cognition for broad public understanding.
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
