@@ -289,3 +289,5 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
+footer:
+  show_powered_by: false
