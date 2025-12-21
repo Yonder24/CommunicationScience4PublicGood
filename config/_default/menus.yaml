@@ -6,13 +6,13 @@
 main:
   - name: Newsletter
     url: /newsletter/
-    weight: 15
+    weight: 10
   - name: Conversations
     url: /conversations/
     weight: 25
   - name: Outreach
     url: /outreach/
-    weight: 35
+    weight: 40
   - name: News
     url: /news/
-    weight: 45
+    weight: 55
