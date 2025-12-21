@@ -11,11 +11,12 @@ design:
 sections:
   - block: hero
     content:
-    image:
-        filename: logo-hero.png
-    title: ""
+      title: ""
       text: |
-        Implementing Evidence-Based Resesearch on Human Communication to Benefit Society
+        Implementing Evidence-Based Research on Human Communication to Benefit Society
+      image:
+        filename: logo-hero.png
+
 
 
 
