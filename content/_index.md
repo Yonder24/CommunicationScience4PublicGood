@@ -10,6 +10,8 @@ sections:
   - block: hero
     content:
       title: ""
+      image:
+        filename: new-logo-hero.svg
       text: |
         Implementing Evidence-Based Research on Human Communication to Benefit Society
 
