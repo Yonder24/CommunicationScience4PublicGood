@@ -22,7 +22,6 @@ sections:
            data-size="large"
            data-show-count="true"
            aria-label="Star HugoBlox/hugo-blox-builder on GitHub">
-           Star
         </a>
 
  
