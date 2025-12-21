@@ -25,13 +25,8 @@ sections:
            Star
         </a>
 
-        Easily build anything with blocks – no-code required!
+ 
 
-        From landing pages, second brains, and courses to academic resumés,
-        conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
     design:
       card:
         css_class: 'bg-primary-300 dark:bg-primary-700'
