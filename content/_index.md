@@ -13,9 +13,9 @@ sections:
     content:
     image:
         filename: logo-hero.png
-    title: Communication Science for the Public Good
+    title: ""
       text: |
-        Translating evidence-based research in communication, language, and cognition for broad public understanding.
+        Implementing Evidence-Based Resesearch on Human Communication to Benefit Society
 
 
 
